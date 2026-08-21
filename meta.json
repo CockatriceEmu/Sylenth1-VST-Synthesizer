@@ -1,0 +1,29 @@
+{
+  "repo": "sylenth1-vst-synthesizer",
+  "product": "Sylenth1 VST Synthesizer",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://sylenth1.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "sylenth1",
+    "edm-synthesizer",
+    "analog-synth",
+    "lead-sounds",
+    "bass-synth",
+    "vst-instrument",
+    "dance-music",
+    "music-production",
+    "sylenth1-setup-failed-fix",
+    "how-to-install-sylenth1",
+    "sylenth1-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 14,
+  "nexpath_slug": "sylenth1",
+  "nexpath_app_name": "Sylenth1"
+}
